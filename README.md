@@ -17,6 +17,9 @@ The main aim of this project is to:
 - Matplotlib & Seaborn (for visualization)
 - Scikit-learn (for clustering - KMeans)
 
+## Dataset Used
+-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 ## 📊 Workflow
 
 1. **Data Loading & Preprocessing**  
